@@ -50,6 +50,23 @@ To ensure that the software could be approved by regulatory bodies (like FDA/ANV
 
 ---
 
+## Project Limitations
+This project was developed in an academic and simulated context, based on historical data and controlled scenarios. 
+The presented models **must not be used directly in real clinical environments** without external validation, prospective studies, multicenter testing, and approval by appropriate regulatory agencies (e.g., FDA/ANVISA).
+
+Additionally, data-related limitations, such as class imbalance, limited sample size for critical events, and potential population bias, may affect the generalizability of the results.
+
+---
+
+## Key Learnings
+- Traditional metrics such as accuracy can be misleading in clinical scenarios with imbalanced datasets.
+- The **clinical utility** of a model may be more important than its isolated numerical performance.
+- AI applied to healthcare requires rigorous validation, ethical oversight, and a strong focus on patient safety.
+- Nursing professionals play a strategic role in bridging clinical needs and data-driven solutions.
+- AI models should be designed as **clinical decision support tools**, not as replacements for human judgment.
+
+---
+
 ### Contact
 **Inácio Santos Vieira**
 [LinkedIn](https://www.linkedin.com/in/inaciosantosvieira/)
