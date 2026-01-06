@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 > 🇺🇸 **English:** [Click here to read in English](README-EN.md)
-> 🎓 **Certificado Oficial:** [Clique aqui para visualizar a credencial de Stanford](certificates/NOME_DO_ARQUIVO.pdf)
+> 🎓 **Certificado Oficial:** [Clique aqui para visualizar a credencial de Stanford](certificates/Stanford (Coursera).pdf)
 
 ## Visão Geral do Projeto
 Este repositório documenta o meu **Portfólio de Decisão** como conclusão da especialização **"AI in Healthcare"** da Stanford University. 
