@@ -4,6 +4,8 @@
 ![Data Analysis](https://img.shields.io/badge/Focus-Clinical%20Data%20Analysis-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
+> 🇺🇸 **English:** [Click here to read in English](README-EN.md)
+
 ## Visão Geral do Projeto
 Este repositório documenta o meu **Portfólio de Decisão** como conclusão da especialização **"AI in Healthcare"** da Stanford University. 
 
