@@ -4,6 +4,8 @@
 ![Data Analysis](https://img.shields.io/badge/Focus-Clinical%20Data%20Analysis-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+> 🎓 **Official Certificate:** [Click here to view the Stanford credential](certificates/Stanford%20(Coursera).pdf)
+
 ## Project Overview
 This repository documents my **Decision Portfolio** as the completion of the **"AI in Healthcare"** specialization by Stanford University.
 
