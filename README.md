@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 > 🇺🇸 **English:** [Click here to read in English](README-EN.md)
-> 🎓 **Certificado Oficial:** [Clique aqui para visualizar o certificado de Stanford(Coursera)](certificates/Stanford%20(Coursera).pdf)
+> **Certificado Oficial:** [Clique aqui para visualizar o certificado de Stanford(Coursera)](certificates/Stanford%20(Coursera).pdf)
 
 ## Visão Geral do Projeto
 Este repositório documenta o meu **Portfólio de Decisão** como conclusão da especialização **"AI in Healthcare"** da Stanford University. 
@@ -48,6 +48,23 @@ O modelo tinha 91% de acurácia, mas percebi que isso era enganoso porque a maio
 Para garantir que o software pudesse ser aprovado por órgãos reguladores (como a FDA/ANVISA):
 1.  **Classificação:** Defini o sistema como **Apoio à Decisão (Nível II)**. O humano sempre tem a palavra final.
 2.  **Viés:** Solicitei testes obrigatórios em grupos de diferentes raças e gêneros para garantir que a IA não fosse preconceituosa.
+
+---
+
+## Limitações do Projeto
+Este projeto foi desenvolvido em um contexto acadêmico e simulado, com base em dados históricos e cenários controlados. 
+Os modelos apresentados **não devem ser utilizados diretamente em ambientes clínicos reais** sem validação externa, estudos prospectivos, testes multicêntricos e aprovação por órgãos reguladores competentes (ex.: ANVISA/FDA).
+
+Além disso, limitações inerentes aos dados, como desbalanceamento de classes, tamanho amostral reduzido para eventos críticos e possível viés populacional, podem impactar a generalização dos resultados.
+
+---
+
+## Principais Aprendizados
+- Métricas tradicionais, como acurácia, podem ser inadequadas em cenários clínicos com dados desbalanceados.
+- A **utilidade clínica** de um modelo pode ser mais relevante do que sua performance numérica isolada.
+- Decisões em IA aplicada à saúde exigem validação rigorosa, visão ética e preocupação com segurança do paciente.
+- Profissionais de Enfermagem desempenham um papel estratégico na tradução entre necessidades clínicas e soluções baseadas em dados.
+- Modelos de IA devem ser concebidos como **apoio à decisão clínica**, e não como substitutos do julgamento humano.
 
 ---
 
